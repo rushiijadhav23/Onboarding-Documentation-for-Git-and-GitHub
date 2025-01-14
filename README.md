@@ -137,6 +137,7 @@ feat: Add tea selection feature
 fix: Resolve login issue for tea enthusiasts
 docs: Update README with chai varieties
 ```
+<img width="2016" alt="Screenshot 2025-01-14 at 12 35 48" src="https://github.com/user-attachments/assets/da3c7ba7-a38c-47dd-be0e-bf61d56fda67" />
 
 ---
 

@@ -69,18 +69,20 @@ git config --global user.email "your.email@example.com"
 
 1. Copy the repository URL:
    ```bash
-   https://github.com/ChaiCode/example-repo.git
+   https://github.com/rushiijadhav23/Onboarding-Documentation-for-Git-and-GitHub.git
    ```
+   <img width="2016" alt="Screenshot 2025-01-14 at 11 54 27" src="https://github.com/user-attachments/assets/57cbdce8-4627-4f6d-9acf-dddf462be057" />
+
 2. Clone the repository:
    ```bash
-   git clone https://github.com/ChaiCode/example-repo.git
+   git clone https://github.com/rushiijadhav23/Onboarding-Documentation-for-Git-and-GitHub.git
    ```
+   
 3. Navigate into the cloned folder:
    ```bash
-   cd example-repo
+   cd Onboarding-Documentation-for-Git-and-GitHub
    ```
-
-**Attach a screenshot of the terminal showing the clone process.**
+   <img width="1065" alt="Screenshot 2025-01-14 at 11 57 02" src="https://github.com/user-attachments/assets/327906f5-7cf1-4fe7-ba37-7e794d43b6c0" />
 
 ---
 

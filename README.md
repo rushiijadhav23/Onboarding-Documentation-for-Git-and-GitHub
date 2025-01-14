@@ -93,6 +93,8 @@ git config --global user.email "your.email@example.com"
    ```bash
    git status
    ```
+   <img width="1202" alt="Screenshot 2025-01-14 at 12 05 40" src="https://github.com/user-attachments/assets/0c51f99b-902f-4003-9a89-e03978735e11" />
+   
 2. Stage changes:
    ```bash
    git add <file>
@@ -105,6 +107,9 @@ git config --global user.email "your.email@example.com"
    ```bash
    git push
    ```
+   <img width="1233" alt="Screenshot 2025-01-14 at 12 08 00" src="https://github.com/user-attachments/assets/1df1f747-b0cd-4a07-8d18-b5e042a8a072" />
+   <img width="2016" alt="Screenshot 2025-01-14 at 12 08 13" src="https://github.com/user-attachments/assets/5f4b4295-231a-4824-81be-a8a2df9f13f5" />
+
 5. Pull updates from GitHub:
    ```bash
    git pull
@@ -113,8 +118,7 @@ git config --global user.email "your.email@example.com"
    ```bash
    git log
    ```
-
-**Attach screenshots for each command being executed in the terminal.**
+   <img width="1221" alt="Screenshot 2025-01-14 at 12 11 07" src="https://github.com/user-attachments/assets/1535e935-c31a-4422-96f2-59d9c5293288" />
 
 ---
 

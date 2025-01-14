@@ -165,8 +165,8 @@ git merge feature/tea-menu
    ```bash
    git push origin feature/tea-menu
    ```
-
-**Attach screenshots of branch creation and merging.**
+   <img width="1345" alt="Screenshot 2025-01-14 at 12 19 46" src="https://github.com/user-attachments/assets/6771308c-1ae4-4e64-9a71-837e0e87c20a" />
+   <img width="1345" alt="Screenshot 2025-01-14 at 12 23 21" src="https://github.com/user-attachments/assets/6e0dc9a0-a56a-4e1e-b6e9-1e5dcaa55fb1" />
 
 ---
 
@@ -174,11 +174,19 @@ git merge feature/tea-menu
 
 ### Creating a Pull Request
 1. Push your branch to GitHub.
-2. Go to the repository on GitHub and click **Pull Requests**.
-3. Click **New Pull Request**.
-4. Add a description and request reviewers.
+<img width="1345" alt="Screenshot 2025-01-14 at 12 23 21" src="https://github.com/user-attachments/assets/4b49869d-4f1d-4154-8fde-8f1f9129b50b" />
 
-**Attach screenshots of the pull request process.**
+2. Go to the repository on GitHub and click **Pull Requests**. 
+<img width="2016" alt="Screenshot 2025-01-14 at 12 21 15" src="https://github.com/user-attachments/assets/5d093d2a-2886-4628-9631-6082761ab828" />
+
+3. Click **New Pull Request**.
+<img width="2016" alt="Screenshot 2025-01-14 at 12 21 29" src="https://github.com/user-attachments/assets/7528d1bc-19b8-4c1d-a87b-bc13b4300f99" />
+
+
+4. Add a description and request reviewers.
+<img width="2016" alt="Screenshot 2025-01-14 at 12 21 42" src="https://github.com/user-attachments/assets/350af0b1-0c9d-4b3d-8674-a6c420b9750b" />
+<img width="2016" alt="Screenshot 2025-01-14 at 12 21 54" src="https://github.com/user-attachments/assets/3bec95bc-815c-4159-bf55-9bf9130e805e" />
+<img width="2016" alt="Screenshot 2025-01-14 at 12 23 12" src="https://github.com/user-attachments/assets/dff5237a-8a74-40ce-8133-da141c7d8243" />
 
 ---
 
@@ -188,9 +196,3 @@ git merge feature/tea-menu
 - **Pull Updates**: Regularly pull changes to minimize conflicts.
 
 ---
-
-## Deliverables Checklist
-1. A properly formatted `README.md` file with embedded screenshots.
-2. At least **5 meaningful commits**.
-3. A **sample branch** created and merged with the main branch.
-4. At least one **pull request** demonstrating the workflow.
